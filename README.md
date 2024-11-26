@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Veloza Arcila
+- prénom : Juan Camilo
+- URL Netlify : https://gleaming-queijadas-0f7cff.netlify.app
 
 # Travail
 
